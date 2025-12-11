@@ -1,5 +1,5 @@
 
-# Gerador de nomes legais
+# Simulador de movimentação
 
 Projeto voltado para fins educacionais, com intenção de aprender javascript, focando nos conceitos de operadores aritméticos.
 
